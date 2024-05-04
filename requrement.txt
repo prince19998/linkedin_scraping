@@ -1,0 +1,10 @@
+#library need to install
+
+selenium
+webdriver
+csv module
+time module
+
+#dowload the chromedriver and give the paths of the  driver
+#link of chrome extend driver
+#https://storage.googleapis.com/chrome-for-testing-public/124.0.6367.91/win64/chromedriver-win64.zip	
